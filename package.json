@@ -1,0 +1,19 @@
+{
+  "name": "el-history",
+  "version": "1.0.0",
+  "description": "History module for Elemmenthal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/elemmenthal/el-history.git",
+  "keywords": [
+    "elemmenthal"
+  ],
+  "author": "Alessio Scalici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elemmenthal/el-history/issues"
+  },
+  "homepage": "https://github.com/elemmenthal/el-history#readme"
+}
